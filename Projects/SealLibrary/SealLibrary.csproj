@@ -131,9 +131,7 @@
     </Compile>
     <Compile Include="Forms\RestrictionEnumValuesEditor.cs" />
     <Compile Include="Forms\IEntityHandler.cs" />
-    <Compile Include="Forms\ExecutionForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="Forms\ExecutionForm.cs" />
     <Compile Include="Forms\ExecutionForm.Designer.cs">
       <DependentUpon>ExecutionForm.cs</DependentUpon>
     </Compile>
